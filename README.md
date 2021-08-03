@@ -11,11 +11,15 @@
 * Roadmaps (Visibility graphs, Voronoi graphs)
 * Cell decomposition
 * Sampling-based planning (PRM, RRT)
+
+## Homework 3: 
 * Kalman filters
 * Bayes filters, particle filters
 * EKF-SLAM, particle filter SLAM
 * Rigid body motions
 * Forward kinematics
+
+## Homework 4:
 * Velocity kinematics
 * Inverse kinematics
 * Model learning
